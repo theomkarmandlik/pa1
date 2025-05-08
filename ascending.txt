@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <pic18f452.h>
 
-
 void main(void) {
     int i,j,temp;
     int num_asc[] = {7,2,5,1,6};
